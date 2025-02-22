@@ -38,7 +38,7 @@ function Right() {
           // **Wait until the image is loaded before printing**
           printWindow.onload = () => {
             printWindow.print();
-            // printWindow.close();
+            printWindow.close();
           };
         });
       };
