@@ -18,7 +18,7 @@ CV Builder is a React.js-based web application that allows users to create and c
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, HTML, CSS
 - **State Management:** React Hooks
-- **Styling:** CSS, Tailwind CSS (if applicable)
+- **Styling:** CSS,
 - **Build Tool:** Vite / Webpack
 
 ## 📂 Installation & Setup
@@ -67,13 +67,10 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes and push them.
 4. Open a Pull Request.
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📧 Contact
 For any queries, feel free to reach out:
 - GitHub: [krishmaniyar](https://github.com/krishmaniyar)
-- Email: (Your Email Address Here)
+- Email: krishmaniyar@27gmail.com
 
 ---
 Happy Coding! 🚀
